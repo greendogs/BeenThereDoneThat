@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen
+        name="logo_size">40dp</dimen>
+    <dimen
+        name="game_question_size">22dp</dimen>
+    <dimen
+        name="game_button_size">60dp</dimen>
+    <dimen
+        name="game_image_size">215dp</dimen>
+</resources>

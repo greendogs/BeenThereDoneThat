@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Warning: Machine language translation, may be horribly inaccurate. For internationalization demonstration purposes only. -->
+<resources>
+    <string
+        name="app_name">Been there, Done That!</string>
+    <string
+        name="scores">Scores Screen</string>
+    <string
+        name="help">Screen-Hilfe</string>
+    <string
+        name="app_logo_top">Been There</string>
+    <string
+        name="app_logo_bottom">Getan!</string>
+    <string
+        name="app_version_info">Version 1.0.0 \ nCopyright © 2010 Mamlambo, Inc. Alle Rechte
+        vorbehalten.</string>
+    <string
+        name="menu">MAIN MENU</string>
+    <string
+        name="menu_item_settings">Einstellungen</string>
+    <string
+        name="menu_item_play">Play Game</string>
+    <string
+        name="menu_item_scores">View Scores</string>
+    <string
+        name="menu_item_help">Hilfe</string>
+    <string
+        name="all_scores">&amp;quot;Alle Scores&amp;quot;</string>
+    <string
+        name="friends_scores">&amp;quot;Zahlreiche Freunde&amp;quot;</string>
+    <string
+        name="no_scores">&amp;quot;Nein Partituren zu zeigen.&amp;quot;</string>
+    <string
+        name="username">&amp;quot;Username&amp;quot;</string>
+    <string
+        name="rank">&amp;quot;Ranking&amp;quot;</string>
+    <string
+        name="score">&amp;quot;Score&amp;quot;</string>
+    <string
+        name="wait_msg">&amp;quot;Abrufen von Noten ...&amp;quot;</string>
+    <string
+        name="wait_title">&amp;quot;Loading ...&amp;quot;</string>
+    <string
+        name="settings">Einstellungen</string>
+    <string
+        name="settings_nickname">Nickname:</string>
+    <string
+        name="settings_email">Email:</string>
+    <string
+        name="settings_dob">Geburtsdatum:</string>
+    <string
+        name="settings_dob_not_set">Kein Date Set</string>
+    <string
+        name="settings_button_dob">Pick Datum</string>
+    <string
+        name="settings_button_pwd">Set Password</string>
+    <string
+        name="settings_gender">Geschlecht:</string>
+    <string
+        name="settings_password">Passwort:</string>
+    <string
+        name="settings_password2">Passwort (Wiederholung):</string>
+    <string
+        name="settings_favoriteplace">Lieblingsplatz:</string>
+    <string
+        name="settings_button_favoriteplace">Wählen Sie einen Ort</string>
+    <string
+        name="settings_favoriteplace_not_set">Kein Favorit Platz.</string>
+    <string
+        name="settings_favplace_coords">Koordinaten:</string>
+    <string
+        name="settings_favplace_currentlocation">(Current Location)</string>
+    <string
+        name="settings_button_favplace_map">Map it!</string>
+    <string
+        name="settings_pwd_set">Set Password</string>
+    <string
+        name="settings_pwd_not_set">Kein Passwort gesetzt</string>
+    <string
+        name="settings_pwd_not_equal">Passwörter stimmen nicht überein, bitte versuchen Sie es erneut.
+    </string>
+    <string
+        name="settings_pwd_equal">Passwörter übereinstimmen.</string>
+    <string
+        name="gender_male">Männlich</string>
+    <string
+        name="gender_female">Weiblich</string>
+    <string
+        name="gender_neutral">Keine Angabe</string>
+    <string
+        name="yes">Ja</string>
+    <string
+        name="no">Nicht</string>
+    <string
+        name="no_questions">Keine weiteren Fragen zur Verfügung. Versuchen Sie es später erneut.
+    </string>
+    <string
+        name="settings_friend_email">Geben Sie E-Mail-Adresse des Freundes:</string>
+    <string
+        name="settings_friend_email_label">Friends</string>
+    <string
+        name="settings_friend_email_tip">Fügen Sie einen neuen Freund per E-Mail</string>
+    <string
+        name="settings_button_friend_email">Add Friend</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Warning: Machine language translation, may be horribly inaccurate. For internationalization demonstration purposes only. -->
+<resources>
+    <string name="app_name">저기, 수행되지 맞아요!</string>
+    <string name="scores">점수 스크린</string>
+    <string name="help">화면 도움말</string>
+    <string name="app_logo_top">이 있을지</string>
+    <string name="app_logo_bottom">모두 망쳤어!</string>
+    <string name="app_version_info">버전 1.0.0 \nCopyright © 2010 Mamlambo 주식 회사 판권 소유.</string>
+    <string name="menu">메인 메뉴</string>
+    <string name="menu_item_settings">설정</string>
+    <string name="menu_item_play">플레이 게임</string>
+    <string name="menu_item_scores">점수보기</string>
+    <string name="menu_item_help">도움</string>
+    <string name="all_scores">&amp;quot;모든 점수&amp;quot;</string>
+    <string name="friends_scores">&amp;quot;친구의 점수&amp;quot;</string>
+    <string name="no_scores">&amp;quot;아니 점수 표시합니다.&amp;quot;</string>
+    <string name="username">&amp;quot;사용자 이름&amp;quot;</string>
+    <string name="rank">&amp;quot;랭킹&amp;quot;</string>
+    <string name="score">&amp;quot;점수&amp;quot;</string>
+    <string name="wait_msg">&amp;quot;검색 중 점수 ...&amp;quot;</string>
+    <string name="wait_title">&amp;quot;로드 중 ...&amp;quot;</string>
+    <string name="settings">설정</string>
+    <string name="settings_nickname">닉네임 :</string>
+    <string name="settings_email">이메일 :</string>
+    <string name="settings_dob">생년월일 :</string>
+    <string name="settings_dob_not_set">아니 날짜 설정</string>
+    <string name="settings_button_dob">날짜 선택</string>
+    <string name="settings_button_pwd">비밀 번호 설정</string>
+    <string name="settings_gender">성별 :</string>
+    <string name="settings_password">비밀 번호 :</string>
+    <string name="settings_password2">비밀 번호 (다시) :</string>
+    <string name="settings_favoriteplace">좋아하는 장소 :</string>
+    <string name="settings_button_favoriteplace">선택 플레이스</string>
+    <string name="settings_favoriteplace_not_set">아니 좋아하는 장소 설정합니다.</string>
+    <string name="settings_favplace_coords">좌표 :</string>
+    <string name="settings_favplace_currentlocation">(현재 위치)</string>
+    <string name="settings_button_favplace_map">그것을지도!</string>
+    <string name="settings_pwd_set">비밀 번호 설정</string>
+    <string name="settings_pwd_not_set">아니 비밀 번호 설정</string>
+    <string name="settings_pwd_not_equal">비밀 번호가 일치하지 않는 경우 다시 시도하십시오.</string>
+    <string name="settings_pwd_equal">비밀 번호가 일치합니다.</string>
+    <string name="gender_male">남성</string>
+    <string name="gender_female">여성</string>
+    <string name="gender_neutral">밝히고 싶지 않음</string>
+    <string name="yes">예</string>
+    <string name="no">아니</string>
+    <string name="no_questions">더 이상 질문이 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="settings_friend_email">친구의 이메일 주소를 입력 :</string>
+    <string name="settings_friend_email_label">친구</string>
+    <string name="settings_friend_email_tip">이메일로 새 친구 추가</string>
+    <string name="settings_button_friend_email">친구 추가</string>
+</resources>
