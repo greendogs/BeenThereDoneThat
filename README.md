@@ -4,7 +4,6 @@ I’VE BEEN THERE APP
 You need to change the Server URLs from the QuizActiviy 
 
 The format for the XML files, example questions.jsp
-
 <questions>
 <question number="1" text="Have you ever been on an African safari?" imageUrl="http://tqs.mamlambo.com:80/qi?key=1"/>
 <question number="2" text="Have you ever climbed a mountain?" imageUrl="http://tqs.mamlambo.com:80/qi?key=1001"/>
